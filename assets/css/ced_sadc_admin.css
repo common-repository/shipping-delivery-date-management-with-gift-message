@@ -1,0 +1,313 @@
+table.ced_sadc_add_day_cost {
+  width: 100%;
+}
+table.ced_sadc_add_day_cost tbody tr td span:first-child {
+  display: inline-block;
+  margin-bottom: 5px;
+}
+.select2-container.select2-container-multi {
+    width: 200px;
+}
+.hide
+{
+    display: none;
+}
+.display{
+    display: block;
+}
+.ced_sadc_email_image{
+    background-color: #fff;
+    float: right;
+    margin-bottom: 20px;
+    margin-right: 33px;
+    margin-top: 10px;
+    border-radius: 6px;
+}
+#ced_sadc_loader {
+    background-color: rgba(255, 255, 255, 0.6);
+    bottom: 0;
+    height: 100%;
+    left: 0;
+    position: fixed;
+    right: 0;
+    top: 0;
+    width: 100%;
+    z-index: 99999;
+}
+#ced_sadc_loader img {
+    display: block;
+    left: 0;
+    margin: 0 auto;
+    position: absolute;
+    right: 0;
+    top: 40%;
+}   
+.ced_sadc_email_image_success{
+    font-size: 16px;
+    color:green;
+    max-width: 300px;
+ width:100%;
+}
+.ced_sadc_email_image_error{
+    font-size: 16px;
+    color:red;
+    max-width: 300px;
+ width:100%;
+}
+#ced_sadc_send_email{
+    padding:10px;
+    margin:10px;
+    color: white;
+    background-color: black;
+    text-decoration: none;
+    font-weight: bold;
+    display: inline-block;
+    margin-right: 0;
+}
+.ced_sadc_email_field{
+    height: 41px;
+    width:25%;
+}
+.ced_sadc_email_image .ced_sadc_email_main_content .ced_sadc_banner a{
+    display: block;
+}
+.ced_sadc_email_image .ced_sadc_email_main_content .ced_sadc_banner{
+    max-width: 1116px;
+    width: 100%;
+}
+.ced_sadc_email_image .ced_sadc_email_main_content .ced_sadc_banner a img{
+    width: 100%;
+}
+.ced_sadc_email_image .ced_sadc_email_main_content{
+    margin: 10px;
+    position: relative;
+}
+.ced_sadc_email_image .ced_sadc_email_main_content .ced_sadc_cross_image_container{
+    position: absolute;
+    right: -17px;
+    top: -17px;
+}
+.ced_sadc_email_image .ced_sadc_email_main_content .ced_sadc_cross_image_container .ced_sadc_cross_image:after{
+     background-color: #fff;
+ content: "";
+ height: 2px;
+ left: 3px;
+ margin: 0 auto;
+ position: absolute;
+ top: 7px;
+ transform: rotate(44deg);
+ width: 10px;
+}
+.ced_sadc_email_image .ced_sadc_email_main_content .ced_sadc_cross_image_container .ced_sadc_cross_image:before{
+   background-color: #fff;
+ content: "";
+ height: 2px;
+ left: 3px;
+ position: absolute;
+ top: 7px;
+ transform: rotate(138deg);
+ width: 10px;
+ z-index: 9999;
+}
+.ced_sadc_email_image .ced_sadc_email_main_content .ced_sadc_cross_image_container .ced_sadc_cross_image{
+   border-radius: 50%;
+    height: 15px;
+    width: 16px;
+    padding:0;
+}
+
+
+
+.ced_sadc_settings_form{
+	background-color: #fff;
+	padding: 2px 28px;
+	margin-top: 30px;
+}
+
+.ced_sadc_settings_form h3 {
+    background: #ec5019;
+    width: 306px;
+    padding: 11px;
+    color: #fff;
+    border-radius: 0px 10px;
+}
+.form-table.ced_sadc_settings_table th {
+ width:40%;
+}
+.select2-container{
+	width: 716px!important;
+}
+.form-table.ced_sadc_settings_table th table{
+	width:100%;
+    background: #f6f7f7;
+    padding: 16px 3px;
+    border-radius: 3px;
+    margin-top:15px;
+}
+.wp-core-ui select{
+    width:100%!important;
+    max-width:60%!important;
+}
+#ced_sadc_gm_length{
+  width:100%;
+}
+.wc_input_price.input-text.regular-input, .input-text.regular-input {
+    width: 100%;
+}
+.ced_sadc_add_day_cost{
+    background: #f6f7f7;
+    padding: 16px 3px;
+    border-radius: 3px;
+}
+.ced_additional_cost, .ced_adjust_gift_padding {
+    background: #ec5019;
+    padding: 8px;
+    color: #fff;
+    border-radius: 0px 10px;
+    font-size: 1.1em;
+}
+    
+    .wp-core-ui .button-primary {
+    background: #ec5019;
+    border-color: #ec5019;
+    color: #fff;
+}
+.wp-core-ui .button-primary:hover {
+   background:#000;
+   border-color:#000;
+}
+.form-table.ced_sadc_settings_table th {
+    padding: 31px 10px 20px 0px;
+    }
+    .ced_adjust_hr_gift, .ced_hr_additional_cost{
+    margin-top:20px;
+    }
+
+
+
+
+.ced_menu_content, .ced_menu_button {
+background: slateblue;
+border-radius: 100%;
+border: 1px solid #ccc;
+width: 60px;
+height: 60px;
+margin-left: -40px;
+position: absolute;
+color: #FFFFFF;
+text-align: center;
+line-height: 60px;
+-webkit-transform: translate3d(0, 0, 0);
+transform: translate3d(0, 0, 0);
+-webkit-transition: -webkit-transform ease-out 200ms;
+transition: -webkit-transform ease-out 200ms;
+transition: transform ease-out 200ms;
+transition: transform ease-out 200ms, -webkit-transform ease-out 200ms;
+cursor: pointer !important;
+}
+.ced_menu_open {
+display: none;
+}
+.ced_contact_menu_wrap {
+margin: auto;
+position: fixed;
+bottom: 6px;
+right: 20px;
+width: 60px;
+height: 60px;
+text-align: center;
+box-sizing: border-box;
+font-size: 26px;
+z-index: 99999;
+}
+.ced_menu_content:hover {
+background: #EEEEEE;
+color: #3290B1;
+}
+.ced_menu_content:nth-child(3) {
+-webkit-transition-duration: 180ms;
+transition-duration: 180ms;
+}
+.ced_menu_content:nth-child(4) {
+-webkit-transition-duration: 180ms;
+transition-duration: 180ms;
+}
+.ced_menu_button {
+z-index: 2;
+-webkit-transition-timing-function: cubic-bezier(0.175, 0.885, 0.32, 1.275);
+transition-timing-function: cubic-bezier(0.175, 0.885, 0.32, 1.275);
+-webkit-transition-duration: 400ms;
+transition-duration: 400ms;
+-webkit-transform: scale(1.1, 1.1) translate3d(0, 0, 0);
+transform: scale(1.1, 1.1) translate3d(0, 0, 0);
+cursor: pointer;
+box-shadow: 3px 3px 0 0 rgba(0, 0, 0, 0.14);
+}
+.ced_menu_open:checked ~ .ced_menu_content:nth-child(3) {
+transition-duration: 180ms;
+-webkit-transition-duration: 180ms;
+-webkit-transform: translate3d(80px, 104.99997px, 0);
+transform: translate3d(-13px, -100px, 0);
+}
+.ced_menu_open:checked ~ .ced_menu_content:nth-child(4) {
+transition-duration: 280ms;
+-webkit-transition-duration: 280ms;
+-webkit-transform: translate3d(-90.9466px, -52.47586px, 0);
+transform: translate3d(-101.053px, -30.524px, 0);
+}
+.ced_skype {
+background-color: #0073aa;
+box-shadow: 3px 3px 0 0 rgba(0, 0, 0, 0.14);
+text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.12);
+}
+.ced_skype:hover {
+color: #669AE1;
+text-shadow: none;
+}
+.ced_whatsapp {
+background-color: green;
+box-shadow: 3px 3px 0 0 rgba(0, 0, 0, 0.14);
+text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.12);
+}
+.ced_whatsapp:hover {
+color: #70CC72;
+text-shadow: none;
+}
+#ced_hpul_loader img {
+	width: 100%;
+}
+.ced_hpul_banner img{
+	width: 100%;
+}
+.ced_hpul_cross_image {
+	display: none;
+}
+.ced_hpul_email_image {
+	width: 27%;
+	background-color: white;
+	padding: 10px;
+	border-radius: 5px;
+	margin-top: 28px;
+    height: fit-content;
+}
+.ced_sadc_setting_section {
+	width: 67%;
+	border-radius: 9px !important;
+}
+.ced_sadc_setting_wrapper {
+	display: inline-flex;
+	gap: 30px;
+}
+.wramvp-support {
+	background: black;
+	padding: 10px;
+	color: white;
+	border-radius: 5px;
+}
+.ced-recom {
+	background: black;
+	color: white;
+	padding: 8px;
+	font-size: 17px;
+	border-radius: 5px;
+}

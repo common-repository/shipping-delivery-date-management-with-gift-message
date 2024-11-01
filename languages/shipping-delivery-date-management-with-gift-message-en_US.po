@@ -1,0 +1,269 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Shipping Delivery Date Management with gift message "
+"1.0.10\n"
+"POT-Creation-Date: 2017-11-21 12:16+0530\n"
+"PO-Revision-Date: 2017-11-21 12:16+0530\n"
+"Last-Translator: \n"
+"Language-Team: CedCommerce <plugins@cedcommerce.com>\n"
+"Language: english\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath:\n"
+"Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: shipping-delivery-date-management-with-gift-message.php:82
+msgid ""
+"WooCommerce is not activated. Please install WooCommerce to use the Shipping "
+"Delivery Date Management with gift message extension !!!"
+msgstr ""
+
+#: admin/settings.php:87
+msgid "enter your e-mail address"
+msgstr ""
+
+#: admin/settings.php:88
+msgid "Know More"
+msgstr ""
+
+#: admin/settings.php:100
+msgid "Shipping and Delivery Configuration"
+msgstr ""
+
+#: admin/settings.php:106
+msgid "Enable"
+msgstr ""
+
+#: admin/settings.php:111
+msgid "Enable Shipping and Delivery"
+msgstr ""
+
+#: admin/settings.php:117
+msgid "Select product categories"
+msgstr ""
+
+#: admin/settings.php:125
+msgid "Select All"
+msgstr ""
+
+#: admin/settings.php:153
+msgid "Date format"
+msgstr ""
+
+#: admin/settings.php:171
+msgid "Day you can not supply order"
+msgstr ""
+
+#: admin/settings.php:176
+msgid "Supply All Day"
+msgstr ""
+
+#: admin/settings.php:177 admin/settings.php:197
+msgid "Sunday"
+msgstr ""
+
+#: admin/settings.php:178 admin/settings.php:207
+msgid "Monday"
+msgstr ""
+
+#: admin/settings.php:179 admin/settings.php:217
+msgid "Tuesday"
+msgstr ""
+
+#: admin/settings.php:180 admin/settings.php:227
+msgid "Wednesday"
+msgstr ""
+
+#: admin/settings.php:181
+msgid "Thursday"
+msgstr ""
+
+#: admin/settings.php:182 admin/settings.php:249
+msgid "Friday"
+msgstr ""
+
+#: admin/settings.php:183 admin/settings.php:259
+msgid "Saturday"
+msgstr ""
+
+#: admin/settings.php:191
+msgid "Additional cost for days"
+msgstr ""
+
+#: admin/settings.php:239
+msgid "Thrusday"
+msgstr ""
+
+#: admin/settings.php:276
+msgid "Enable Delivery Date selection"
+msgstr ""
+
+#: admin/settings.php:286
+msgid "Enable Delivery Time selection"
+msgstr ""
+
+#: admin/settings.php:296
+msgid "Enable Recipient address selection"
+msgstr ""
+
+#: admin/settings.php:307
+msgid "Enable Gift message functionalities"
+msgstr ""
+
+#: admin/settings.php:317
+msgid "Set Gift message length"
+msgstr ""
+
+#: admin/settings.php:327
+msgid "Adjust Padding for Gift Message Box in the Product Single Page"
+msgstr ""
+
+#: admin/settings.php:330
+msgid "Enter the gift box padding in pixels"
+msgstr ""
+
+#: admin/settings.php:333
+msgid "Padding Top"
+msgstr ""
+
+#: admin/settings.php:342
+msgid "Padding Right"
+msgstr ""
+
+#: admin/settings.php:355
+msgid "Padding Bottom"
+msgstr ""
+
+#: admin/settings.php:364
+msgid "Padding Left"
+msgstr ""
+
+#: includes/ced_sadc_class.php:45
+msgid ""
+"Soon you will receive the more details of this extension on the given mail."
+msgstr ""
+
+#: includes/ced_sadc_class.php:49 includes/ced_sadc_class.php:54
+msgid "Sorry,an error occured.Please try again."
+msgstr ""
+
+#: includes/ced_sadc_class.php:152
+#, php-format
+msgid "Please enter in decimal (%s) format without thousand separators."
+msgstr ""
+
+#: includes/ced_sadc_class.php:154
+#, php-format
+msgid ""
+"Please enter in monetary decimal (%s) format without thousand separators and "
+"currency symbols."
+msgstr ""
+
+#: includes/ced_sadc_class.php:155
+msgid "Please enter in country code with two capital letters."
+msgstr ""
+
+#: includes/ced_sadc_class.php:156
+msgid "Please enter in a value less than the regular price."
+msgstr ""
+
+#: includes/ced_sadc_class.php:160
+msgid "Import"
+msgstr ""
+
+#: includes/ced_sadc_class.php:161
+msgid "Export"
+msgstr ""
+
+#: includes/ced_sadc_class.php:282
+msgid "Recipient Address Saved"
+msgstr ""
+
+#: includes/ced_sadc_class.php:289
+msgid "Additional Cost :"
+msgstr ""
+
+#: includes/ced_sadc_class.php:296
+msgid "Pick a Delivery Date"
+msgstr ""
+
+#: includes/ced_sadc_class.php:308
+msgid "Set Delivery Time Range"
+msgstr ""
+
+#: includes/ced_sadc_class.php:348
+msgid "Enter Gift a Message"
+msgstr ""
+
+#: includes/ced_sadc_class.php:369
+msgid "First Name"
+msgstr ""
+
+#: includes/ced_sadc_class.php:373
+msgid "Last Name"
+msgstr ""
+
+#: includes/ced_sadc_class.php:377
+msgid "Company Name"
+msgstr ""
+
+#: includes/ced_sadc_class.php:381
+msgid "Email Address"
+msgstr ""
+
+#: includes/ced_sadc_class.php:385
+msgid "Phone"
+msgstr ""
+
+#: includes/ced_sadc_class.php:389
+msgid "Country"
+msgstr ""
+
+#: includes/ced_sadc_class.php:391
+msgid "Select Country"
+msgstr ""
+
+#: includes/ced_sadc_class.php:403
+msgid "State / County"
+msgstr ""
+
+#: includes/ced_sadc_class.php:410
+msgid "Address1"
+msgstr ""
+
+#: includes/ced_sadc_class.php:414
+msgid "Address2"
+msgstr ""
+
+#: includes/ced_sadc_class.php:418
+msgid "Town / City"
+msgstr ""
+
+#: includes/ced_sadc_class.php:427 includes/ced_sadc_class.php:511
+msgid "Recipient Address"
+msgstr ""
+
+#: includes/ced_sadc_class.php:428
+msgid "Click Here"
+msgstr ""
+
+#: includes/ced_sadc_class.php:480
+msgid "Delivery Date"
+msgstr ""
+
+#: includes/ced_sadc_class.php:487
+msgid "Delivery Time From"
+msgstr ""
+
+#: includes/ced_sadc_class.php:494
+msgid "Delivery Time To"
+msgstr ""
+
+#: includes/ced_sadc_class.php:503
+msgid "Gift Message"
+msgstr ""
